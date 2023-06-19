@@ -1,0 +1,9 @@
+::ng-deep #niv2 .mdc-tab-indicator--active .mdc-tab-indicator__content{
+    opacity: 0 !important
+}
+::ng-deep #niv2_1 .mdc-tab-indicator--active .mdc-tab-indicator__content{
+    opacity: 1 !important
+}
+::ng-deep #niv2_2 .mdc-tab-indicator--active .mdc-tab-indicator__content{
+    opacity: 1 !important
+}
